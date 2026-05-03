@@ -205,8 +205,8 @@ export default function App() {
               {/* Background Decorative Blocks */}
               <div className="absolute -top-40 -left-40 w-80 h-80 opacity-10 pointer-events-none rotate-12">
                 <img 
-                  src="https://images.unsplash.com/photo-1614850523296-d8c1af93d400?auto=format&fit=crop&q=80&w=600" 
-                  alt="Obsidian Blocks" 
+                  src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=600" 
+                  alt="Gaming Geometry" 
                   className="w-full h-full object-cover grayscale brightness-50 contrast-125"
                   referrerPolicy="no-referrer"
                 />
@@ -214,7 +214,7 @@ export default function App() {
               <div className="absolute -bottom-40 -right-40 w-80 h-80 opacity-10 pointer-events-none -rotate-12">
                 <img 
                   src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=600" 
-                  alt="Tech Grid" 
+                  alt="Roblox-style Blocks" 
                   className="w-full h-full object-cover grayscale brightness-50 contrast-125"
                   referrerPolicy="no-referrer"
                 />
