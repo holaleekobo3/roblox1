@@ -17,6 +17,7 @@ import {
   BookOpen,
   Award
 } from 'lucide-react';
+import huggyWuggyImg from './huggy-wuggy-real.jpg';
 
 // Quiz Data
 const STORY = {
@@ -316,9 +317,9 @@ export default function App() {
 
                     <div className="relative group overflow-hidden border border-white/10 rounded-sm bg-[#050505]">
                       <img 
-                        src="https://i.pinimg.com/736x/87/40/01/874001712204736f0147817926966144.jpg" 
+                        src={huggyWuggyImg} 
                         alt="Huggy Wuggy Reference Render" 
-                        className="w-full h-80 object-contain brightness-95 hover:brightness-110 transition-all duration-700 p-4"
+                        className="w-full h-80 object-cover brightness-95 hover:brightness-110 transition-all duration-700 p-0"
                         referrerPolicy="no-referrer"
                       />
                       <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a]/60 to-transparent pointer-events-none"></div>
