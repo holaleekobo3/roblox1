@@ -314,16 +314,16 @@ export default function App() {
                       <h3 className="text-4xl font-serif italic">Full Narrative Summary</h3>
                     </div>
 
-                    <div className="relative group overflow-hidden border border-white/10 rounded-sm">
+                    <div className="relative group overflow-hidden border border-white/10 rounded-sm bg-[#050505]">
                       <img 
-                        src="https://images.unsplash.com/photo-1618331835717-801e976710b2?auto=format&fit=crop&q=80&w=1000" 
-                        alt="Abandoned Toy Concept" 
-                        className="w-full h-48 object-cover grayscale brightness-50 hover:brightness-75 transition-all duration-700"
+                        src="https://i.pinimg.com/736x/87/40/01/874001712204736f0147817926966144.jpg" 
+                        alt="Huggy Wuggy Reference Render" 
+                        className="w-full h-80 object-contain brightness-95 hover:brightness-110 transition-all duration-700 p-4"
                         referrerPolicy="no-referrer"
                       />
-                      <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] to-transparent"></div>
+                      <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a]/60 to-transparent pointer-events-none"></div>
                       <div className="absolute bottom-4 left-4">
-                        <span className="text-[9px] font-mono text-white/40 uppercase tracking-[0.4em]">Reference: Playtime Co. Incident Record</span>
+                        <span className="text-[9px] font-mono text-white/40 uppercase tracking-[0.4em]">Reference: Playtime Co. Classification - Subject 1006</span>
                       </div>
                     </div>
 
