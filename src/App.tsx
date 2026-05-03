@@ -316,14 +316,14 @@ export default function App() {
 
                     <div className="relative group overflow-hidden border border-white/10 rounded-sm">
                       <img 
-                        src="https://images.unsplash.com/photo-1627398242454-45a1465c2479?auto=format&fit=crop&q=80&w=1000" 
-                        alt="Dark mysterious corridor" 
+                        src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=1000" 
+                        alt="Blocky geometry landscape" 
                         className="w-full h-48 object-cover grayscale brightness-50 hover:brightness-75 transition-all duration-700"
                         referrerPolicy="no-referrer"
                       />
                       <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] to-transparent"></div>
                       <div className="absolute bottom-4 left-4">
-                        <span className="text-[9px] font-mono text-white/40 uppercase tracking-[0.4em]">Reference Image: The White Box Corridor</span>
+                        <span className="text-[9px] font-mono text-white/40 uppercase tracking-[0.4em]">Reference: The Block World Connection</span>
                       </div>
                     </div>
 
