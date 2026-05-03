@@ -202,19 +202,19 @@ export default function App() {
             id="landing-screen"
           >
             <div className="max-w-4xl text-center space-y-10 relative">
-              {/* Background Decorative Blocks */}
+              {/* Background Decorative - Factory/Poppy Theme */}
               <div className="absolute -top-40 -left-40 w-80 h-80 opacity-10 pointer-events-none rotate-12">
                 <img 
-                  src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=600" 
-                  alt="Gaming Geometry" 
+                  src="https://images.unsplash.com/photo-1518112391480-98fc1658c1aa?auto=format&fit=crop&q=80&w=600" 
+                  alt="Abandoned Factory" 
                   className="w-full h-full object-cover grayscale brightness-50 contrast-125"
                   referrerPolicy="no-referrer"
                 />
               </div>
               <div className="absolute -bottom-40 -right-40 w-80 h-80 opacity-10 pointer-events-none -rotate-12">
                 <img 
-                  src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=600" 
-                  alt="Roblox-style Blocks" 
+                  src="https://images.unsplash.com/photo-1621640428930-aacb02e75344?auto=format&fit=crop&q=80&w=600" 
+                  alt="Creepy Industrial" 
                   className="w-full h-full object-cover grayscale brightness-50 contrast-125"
                   referrerPolicy="no-referrer"
                 />
@@ -316,14 +316,14 @@ export default function App() {
 
                     <div className="relative group overflow-hidden border border-white/10 rounded-sm">
                       <img 
-                        src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=1000" 
-                        alt="Blocky geometry landscape" 
+                        src="https://images.unsplash.com/photo-1618331835717-801e976710b2?auto=format&fit=crop&q=80&w=1000" 
+                        alt="Abandoned Toy Concept" 
                         className="w-full h-48 object-cover grayscale brightness-50 hover:brightness-75 transition-all duration-700"
                         referrerPolicy="no-referrer"
                       />
                       <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] to-transparent"></div>
                       <div className="absolute bottom-4 left-4">
-                        <span className="text-[9px] font-mono text-white/40 uppercase tracking-[0.4em]">Reference: The Block World Connection</span>
+                        <span className="text-[9px] font-mono text-white/40 uppercase tracking-[0.4em]">Reference: Playtime Co. Incident Record</span>
                       </div>
                     </div>
 
